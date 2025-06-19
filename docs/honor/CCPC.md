@@ -1,3 +1,7 @@
+<center><h1>中国大学生程序设计竞赛</h1></center>
+
+---
+
 ICPC/CCPC 更详尽的近年区域赛数据在 [CPC Finder](https://cpcfinder.com/)。
 
 ICPC/CCPC 系列赛事近年外榜在 [XCPC Board](https://board.xcpcio.com/)。
@@ -6,6 +10,8 @@ ICPC/CCPC 系列赛事近年外榜在 [XCPC Board](https://board.xcpcio.com/)。
 
 ### 邀请赛/省赛
 
+共计 $5$ 金 $1$ 银 $1$ 铁。
+
 ### 2025.6.2 郑州邀请赛
 
 |队伍|队长|队员|奖项|队排|校排|
@@ -13,6 +19,9 @@ ICPC/CCPC 系列赛事近年外榜在 [XCPC Board](https://board.xcpcio.com/)。
 |我是铁牌，我要打郑州邀请赛|姚仁杰|卢一鸣、任麒源|金|4|4|
 |不想端午集训,去郑州旅游,打铁怎么了? |佟涵宇|徐中生、邱方正|/|385|/|
 
+<img src="/hncpc20251.jpg" alt="" width="85%">
+
+<img src="/hncpc20252.jpg" alt="" width="85%">
 
 ### 2025.5.25 东北邀请赛
 
@@ -22,12 +31,16 @@ ICPC/CCPC 系列赛事近年外榜在 [XCPC Board](https://board.xcpcio.com/)。
 |星巴克和大扑棱蛾子|汪明|鲁洁阳、邱方正|金|38|/|
 |带带我，我也会挂名|陈宏毅|江子豪、汤宇涛|银|43|/|
 
+<img src="/north-east2025.jpg" alt="" width="85%">
+
 ### 2025.5.25 广西省赛（东盟-邀请赛）
 
 |队伍|队长|队员|奖项|队排|校排|
 |---|---|---|---|---|---|
 |埋土里的拾荒者|姚仁杰|董欣悦、李凯涛|金|12|10|
 |永远鲜红的幼月|胡涛|颜林浩、陈足楷|金|14|12|
+
+<img src="/gxcpc2025.jpg" alt="" width="85%">
 
 ## 2024 赛季
 
@@ -42,6 +55,8 @@ ICPC/CCPC 系列赛事近年外榜在 [XCPC Board](https://board.xcpcio.com/)。
 |队伍|队长|队员|奖项|队排|校排|
 |---|---|---|---|---|---|
 |马拉车算法算车拉马|姚仁杰|卢一鸣、任麒源|铜|60|55|
+
+<img src="/ccpcfinal2025.jpg" alt="" width="85%">
 
 ### 2024.11.17 郑州
 金/银/铜/铁/总：$28/83/166/276/280$
