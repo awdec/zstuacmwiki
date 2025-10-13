@@ -42,7 +42,7 @@ ICPC/CCPC 系列赛事近年外榜在 [XCPC Board](https://board.xcpcio.com/)。
 |埋土里的拾荒者|姚仁杰|董欣悦、李凯涛|金|12|10|
 |永远鲜红的幼月|胡涛|颜林浩、陈足楷|金|14|12|
 
-<img src="/gxcpc2025.jpg" alt="" width="85%">
+<!-- <img src="/gxcpc2025.jpg" alt="" width="85%"> -->
 
 ## 2024 赛季
 
@@ -58,7 +58,7 @@ ICPC/CCPC 系列赛事近年外榜在 [XCPC Board](https://board.xcpcio.com/)。
 |---|---|---|---|---|---|
 |马拉车算法算车拉马|姚仁杰|卢一鸣、任麒源|铜|60|55|
 
-<img src="/ccpcfinal2025.jpg" alt="" width="85%">
+<!-- <img src="/ccpcfinal2025.jpg" alt="" width="85%"> -->
 
 ### 2024.11.17 郑州
 金/银/铜/铁/总：$28/83/166/276/280$

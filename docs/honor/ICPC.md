@@ -30,7 +30,7 @@ ICPC/CCPC 系列赛事近年外榜在 [XCPC Board](https://board.xcpcio.com/)。
 |彰耗堡堡代我妃|姚仁杰|任麒源、卢一鸣|银|45|38|
 |幻想郷最強伝説と完全で瀟洒な従者|胡涛|颜林浩、董欣悦|铜|140|/|
 
-<img src="/jxcpc2025.jpg" alt="" width="85%">
+<!-- <img src="/jxcpc2025.jpg" alt="" width="85%"> -->
 
 
 ### 2025.5.4 西安邀请赛
