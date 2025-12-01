@@ -6,7 +6,7 @@ export default defineConfig({
   // base :"/zstuacmwiki",
   
   title: "ZSTU ACM",
-  description: "A VitePress Site",
+  description: "ZSTU ACM 集训队官网",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico'}]
   ],
