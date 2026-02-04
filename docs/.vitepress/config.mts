@@ -68,7 +68,7 @@ export default defineConfig({
     
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zstuacmwiki/docs' }
+      { icon: 'github', link: 'https://github.com/awdec/zstuacmwiki' }
     ]
   },
 
