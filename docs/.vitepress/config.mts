@@ -59,7 +59,7 @@ export default defineConfig({
               { text: '天梯赛', link: '/honor/CCCC'},
               { text: '蓝桥杯', link: '/honor/蓝桥杯'},
               { text: '百度之星', link: '/honor/Astar'},
-              { text: '睿抗（编程技能赛道）', link: '/honor/rui'},
+              // { text: '睿抗（编程技能赛道）', link: '/honor/rui'},
               { text: '码蹄杯', link: '/honor/mati'},
             ]
           }
