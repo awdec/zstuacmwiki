@@ -1,5 +1,6 @@
 ## 叶海荣
-![](/coach1.jpg)        
+<img src="/yhr.jpg" alt="罗强" style="width:280px; height:200px;">
+
 - 姓名：叶海荣
 - 毕业学校：浙江大学
 - $2004$ 年来浙江理工大学

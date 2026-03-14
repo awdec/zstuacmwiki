@@ -31,9 +31,11 @@ export default defineConfig({
               { text: '集训队简介', link: '/group/instruction'},
               { text: '集训队管理条例', link: '/group/constitution' },
               { text: '教练', link: '/group/coach'},
-              { text: '队员信息', link: '/group/members' },
-              { text: '队员风采', link: '/group/demeanour'},
-              { text: '校级比赛', link: '/group/contest'}
+              { text: '比赛报名相关', link: '/group/apply'},
+              { text: '参赛相关', link: '/group/team'},
+              // { text: '队员信息', link: '/group/members' },
+              // { text: '队员风采', link: '/group/demeanour'},
+              // { text: '校级比赛', link: '/group/contest'},
             ]
           }
         ],
