@@ -21,7 +21,7 @@
 
 <img src="/coach2.jpg" alt="罗强" style="width:250px; height:300px;">
 
-- 姓名：罗强
+- 姓名：罗强（已退休）
 
 分管机房、实验室，ACM-ICPC 竞赛集训队总后勤。
 
