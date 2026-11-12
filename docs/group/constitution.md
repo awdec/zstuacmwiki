@@ -1,8 +1,5 @@
 <style>
 .vp-doc p { text-indent: 2em; }
-.vp-doc {
-  font-family: "楷体"
-}
 </style>
 
 <center><h1>集训队管理条例</h1></center>

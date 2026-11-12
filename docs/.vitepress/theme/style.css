@@ -152,3 +152,11 @@
   font-size: 18px;
 }
 
+/**
+ * Typography
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-font-family-base: "楷体", "KaiTi", "Kaiti SC", "STKaiti", "KaiTi_GB2312", serif;
+}
+
