@@ -137,3 +137,18 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/**
+ * Component: Sidebar
+ * -------------------------------------------------------------------------- */
+
+.VPSidebar,
+.VPSidebar .VPSidebarItem,
+.VPSidebar .VPSidebarItem .text {
+  font-family: var(--vp-font-family-base);
+  text-indent: 0;
+}
+
+.VPSidebar .VPSidebarItem .text {
+  font-size: 18px;
+}
+

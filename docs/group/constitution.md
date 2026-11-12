@@ -1,6 +1,6 @@
 <style>
-p { text-indent: 2em; }
-body {
+.vp-doc p { text-indent: 2em; }
+.vp-doc {
   font-family: "楷体"
 }
 </style>

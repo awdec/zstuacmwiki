@@ -1,5 +1,5 @@
 <style>
-p { text-indent: 2em; }
+.vp-doc p { text-indent: 2em; }
 </style>
 在了解我们之前，可以先了解 [ACM是什么](/ACM/instruction)。
 
